@@ -11,4 +11,4 @@
 例如：
 AA AA F1 14 00 4E 1F F0 00 4E 20 BE 00 00 00 00 00 00 00 60 00 00 00 E3 25
 
-https://github.com/xzhiot/serial_net_graph/blob/main/%E7%A8%8B%E5%BA%8F.png
+![image](程序.jpg)
